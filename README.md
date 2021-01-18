@@ -4,8 +4,8 @@ A classification model designed to predict the type of complaint from the predef
 
 The major libraries which have to be installed for running this project is as follows:
 
-pandas
-numpy
+1. pandas
+2. numpy
 scipy.stats - randint
 sklearn.feature_extraction.text - TfidfVectorizer
 sklearn.feature_selection - chi2
