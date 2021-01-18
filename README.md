@@ -4,24 +4,24 @@ A classification model designed to predict the type of complaint from the predef
 
 The major libraries which have to be installed for running this project is as follows:
 
-1. pandas
-2. numpy
-scipy.stats - randint
-sklearn.feature_extraction.text - TfidfVectorizer
-sklearn.feature_selection - chi2
-IPython.display - display
-sklearn.model_selection - train_test_split
-seaborn
-sklearn.feature_extraction.text - TfidfTransformer
-sklearn.naive_bayes - MultinomialNB
-sklearn.linear_model - LogisticRegression
-sklearn.ensemble - RandomForestClassifier
-sklearn.svm - LinearSVC
-sklearn.model_selection - cross_val_score
-sklearn.metrics - confusion_matrix
-sklearn - metrics
-nltk
-stopwords
+1.  pandas
+2.  numpy
+3.  scipy.stats - randint
+4.  sklearn.feature_extraction.text - TfidfVectorizer
+5.  sklearn.feature_selection - chi2
+6.  IPython.display - display
+7.  sklearn.model_selection - train_test_split
+8.  seaborn
+9.  sklearn.feature_extraction.text - TfidfTransformer
+10. sklearn.naive_bayes - MultinomialNB
+11. sklearn.linear_model - LogisticRegression
+12. sklearn.ensemble - RandomForestClassifier
+13. sklearn.svm - LinearSVC
+14. sklearn.model_selection - cross_val_score
+15. sklearn.metrics - confusion_matrix
+16. sklearn - metrics
+17. nltk
+18. stopwords
 
 Collection of Dataset from consumer complaint forum https://catalog.data.gov/dataset/consumer-complaint-database 
 
